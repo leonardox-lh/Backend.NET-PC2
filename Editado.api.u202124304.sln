@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSchool.api.u202124304.api", "NewSchool.api.u202124304.api\NewSchool.api.u202124304.api.csproj", "{CBE0970D-9C61-4A2C-A2AA-CACD9DA0E49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE0970D-9C61-4A2C-A2AA-CACD9DA0E49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE0970D-9C61-4A2C-A2AA-CACD9DA0E49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE0970D-9C61-4A2C-A2AA-CACD9DA0E49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE0970D-9C61-4A2C-A2AA-CACD9DA0E49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
